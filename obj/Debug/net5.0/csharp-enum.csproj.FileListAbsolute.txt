@@ -1,0 +1,16 @@
+C:\Users\emrea\Desktop\Pratikler\csharp-enum\bin\Debug\net5.0\csharp-enum.exe
+C:\Users\emrea\Desktop\Pratikler\csharp-enum\bin\Debug\net5.0\csharp-enum.deps.json
+C:\Users\emrea\Desktop\Pratikler\csharp-enum\bin\Debug\net5.0\csharp-enum.runtimeconfig.json
+C:\Users\emrea\Desktop\Pratikler\csharp-enum\bin\Debug\net5.0\csharp-enum.runtimeconfig.dev.json
+C:\Users\emrea\Desktop\Pratikler\csharp-enum\bin\Debug\net5.0\csharp-enum.dll
+C:\Users\emrea\Desktop\Pratikler\csharp-enum\bin\Debug\net5.0\ref\csharp-enum.dll
+C:\Users\emrea\Desktop\Pratikler\csharp-enum\bin\Debug\net5.0\csharp-enum.pdb
+C:\Users\emrea\Desktop\Pratikler\csharp-enum\obj\Debug\net5.0\csharp-enum.csproj.AssemblyReference.cache
+C:\Users\emrea\Desktop\Pratikler\csharp-enum\obj\Debug\net5.0\csharp-enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrea\Desktop\Pratikler\csharp-enum\obj\Debug\net5.0\csharp-enum.AssemblyInfoInputs.cache
+C:\Users\emrea\Desktop\Pratikler\csharp-enum\obj\Debug\net5.0\csharp-enum.AssemblyInfo.cs
+C:\Users\emrea\Desktop\Pratikler\csharp-enum\obj\Debug\net5.0\csharp-enum.csproj.CoreCompileInputs.cache
+C:\Users\emrea\Desktop\Pratikler\csharp-enum\obj\Debug\net5.0\csharp-enum.dll
+C:\Users\emrea\Desktop\Pratikler\csharp-enum\obj\Debug\net5.0\ref\csharp-enum.dll
+C:\Users\emrea\Desktop\Pratikler\csharp-enum\obj\Debug\net5.0\csharp-enum.pdb
+C:\Users\emrea\Desktop\Pratikler\csharp-enum\obj\Debug\net5.0\csharp-enum.genruntimeconfig.cache
